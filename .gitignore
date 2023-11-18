@@ -1,9 +1,7 @@
-bitbake-cookerdaemon.log
-bitbake.lock
-bitbake.sock
-cache
-conf
-downloads
-hashserve.sock
-sstate-cache
-tmp
+build-rpi/
+argparse
+logging
+os
+platform
+re
+shutil
