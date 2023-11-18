@@ -6,4 +6,4 @@
 	url = https://github.com/openembedded/meta-openembedded.git
 [submodule "poky"]
 	path = poky
-	url = https://github.com/goranvel/poky.git
+	url = git@github.com:goranvel/poky.git
