@@ -7,3 +7,6 @@
 [submodule "poky"]
 	path = poky
 	url = git@github.com:goranvel/poky.git
+[submodule "meta-security"]
+	path = meta-security
+	url = git://git.yoctoproject.org/meta-security
